@@ -62,5 +62,18 @@ Setup the softwares listed above in you pc or laptop
  You'll get a link to open jupyter notebook to do your further tasks
  
  
- 3) Create a new file in jupyter notebook and type your machine learning code .For refernce you can get an idea clicking on this link of my sample codes 
+ 3) Create a new file in jupyter notebook and type your machine learning code .For refernce you can get an idea clicking on this link of my sample codes :
+ 
+ https://github.com/Avanish474/mlops.git
+ 
+ 
+ 4) Now to use jenkins you have to download a software called ngroks for linux os.
+ After downloading this software ,paste the software file in your Desktop and open its terminal or type cd /root/Desktop
+ Now you just have to type :
+ 
+ ./ngrok http 8080
+ 
+ Next think to do is to type your IP:8080 (ex. 192.168.53.205:8080) in your browser .This will navigate your to Jenkins.
+ 
+ 5) Create new jobs
  
