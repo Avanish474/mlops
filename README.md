@@ -43,4 +43,12 @@ Setup the softwares listed above in you pc or laptop
    cd /project
    
    Create an container image having python3 ,keras and numpy previously installed using Dockerfile.For doing this refer to this file :
+  
    
+    https://github.com/Avanish474/mlops/blob/master/Dockerfile
+  
+   and then type 
+   
+   docker build -t riseweb:v1
+ 
+ 2) 
