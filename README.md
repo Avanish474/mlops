@@ -11,7 +11,7 @@ Have you been thinking to add automation to your machine learning project ? Well
 Note : All above prerequisites should be clear to you if you wanna proceed further .
 Setup the softwares listed above in you pc or laptop
 
-![Image description](https://github.com/Avanish474/mlops/blob/93f527b538aea168849ce0dcba94b8509212cb67/mld.jpg
+![Image description](https://github.com/Avanish474/mlops/blob/93f527b538aea168849ce0dcba94b8509212cb67/mld.jpg)
 
 
 #Task to perform
