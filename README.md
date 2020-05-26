@@ -42,4 +42,5 @@ Setup the softwares listed above in you pc or laptop
     
    cd /project
    
-   Create an container image having python3 ,keras and numpy previously installed using Dockerfile.Refer to the Dockerfile repository in  
+   Create an container image having python3 ,keras and numpy previously installed using Dockerfile.For doing this refer to this file :
+   
