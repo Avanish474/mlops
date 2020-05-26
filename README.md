@@ -114,6 +114,7 @@ Setup the softwares listed above in you pc or laptop
  
   #JOB6: called job6
   
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0040%5B1%5D.jpg)
   ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0042%5B1%5D.jpg)
   
 
