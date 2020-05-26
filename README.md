@@ -2,7 +2,7 @@
 
 # Have you been thinking to add automation to your machine learning project ? Well here is a way you can make it happen!
 
-# Prerequisites
+# Prerequisites 
 
 1) Concepts of redhat operating system commands
 
@@ -39,7 +39,7 @@
 8. Create One extra job job6 for monitor : If container where app is running. fails due to any reason then this job should automatically start the container again from where the last trained model left
 
 
-# Solution to above task
+# Solution to above task and setup
 
 1) Create a directory inside your home directory of redhat:
  
