@@ -75,5 +75,19 @@ Setup the softwares listed above in you pc or laptop
  
  Next think to do is to type your IP:8080 (ex. 192.168.53.205:8080) in your browser .This will navigate your to Jenkins.
  
- 5) Create new jobs
+ 5) Create new jobs in Jenkins like said in the above topics regarding the task desciption
+ 
+  #JOB! : called the Githubjob
+  
+  #JOB2: called start
+  
+  #JOB3: called trainandpredict
+  
+  #JOB4: called accuracy
+  
+  #JOB5: called notification
+  
+  #JOB5: called job6
+  
+  
  
