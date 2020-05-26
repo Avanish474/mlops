@@ -77,35 +77,40 @@ Setup the softwares listed above in you pc or laptop
  
  5) Create new jobs in Jenkins like said in the above topics regarding the task desciption
  
-  #JOB! : called the Githubjob
+  #JOB1 : called the Githubjob
   
-  ![Image description](https://github.com/Avanish474/mlops/blob/93f527b538aea168849ce0dcba94b8509212cb67/mld.jpg)
-
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/1%5B1%5D.jpg)
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/2%5B1%5D.jpg)
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/3%5B1%5D.jpg)
   
   #JOB2: called start
   
-  ![Image description](https://github.com/Avanish474/mlops/blob/93f527b538aea168849ce0dcba94b8509212cb67/mld.jpg)
-
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0025%5B1%5D.jpg)
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0027%5B1%5D.jpg)
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0031%5B1%5D.jpg)
   
   #JOB3: called trainandpredict
   
-  ![Image description](https://github.com/Avanish474/mlops/blob/93f527b538aea168849ce0dcba94b8509212cb67/mld.jpg)
-
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0034%5B1%5D.jpg)
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0038%5B1%5D.jpg)
+  
   
   #JOB4: called accuracy
   
-  ![Image description](https://github.com/Avanish474/mlops/blob/93f527b538aea168849ce0dcba94b8509212cb67/mld.jpg)
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0040%5B1%5D.jpg)
 
   
   #JOB5: called notification
   
   ![Image description](https://github.com/Avanish474/mlops/blob/93f527b538aea168849ce0dcba94b8509212cb67/mld.jpg)
-
+  ![Image description](https://github.com/Avanish474/mlops/blob/93f527b538aea168849ce0dcba94b8509212cb67/mld.jpg)
   
-  #JOB5: called job6
+  #JOB6: called job6
   
   ![Image description](https://github.com/Avanish474/mlops/blob/93f527b538aea168849ce0dcba94b8509212cb67/mld.jpg)
+  ![Image description](https://github.com/Avanish474/mlops/blob/93f527b538aea168849ce0dcba94b8509212cb67/mld.jpg)
 
+  
   
   
  
