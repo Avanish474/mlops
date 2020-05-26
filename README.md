@@ -79,17 +79,24 @@ Setup the softwares listed above in you pc or laptop
  
   #JOB1 : called the Githubjob
   
-  ![Image description](https://github.com/Avanish474/mlops/blob/master/1%5B1%5D.jpg)
-  ![Image description](https://github.com/Avanish474/mlops/blob/master/2%5B1%5D.jpg)
-  ![Image description](https://github.com/Avanish474/mlops/blob/master/3%5B1%5D.jpg)
   
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/1%5B1%5D.jpg)
+ 
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/2%5B1%5D.jpg)
+ 
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/3%5B1%5D.jpg)
+ 
+ 
   #JOB2: called start
   
+  
   ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0025%5B1%5D.jpg)
+  
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0027%5B1%5D.jpg)
  
   #JOB3: called trainandpredict
   
-  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0027%5B1%5D.jpg)
+  
   ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0031%5B1%5D.jpg)
   
   ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0034%5B1%5D.jpg)
