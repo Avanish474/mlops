@@ -50,5 +50,17 @@ Setup the softwares listed above in you pc or laptop
    and then type 
    
    docker build -t riseweb:v1
+   
+   where riseweb:v1 is your image name
+   
+   
  
- 2) 
+ 2) After doing the above job now you can start your container and launch jupyter notebook by the following command:
+ 
+ docker run -it --rm -v $(realpath ~/notebook):/tf/notebooks -p 8888:8888 --name fashion riseweb:v1
+ 
+ You'll get a link to open jupyter notebook to do your further tasks
+ 
+ 
+ 3) Create a new file in jupyter notebook and type your machine learning code .For refernce you can get an idea clicking on this link of my sample codes 
+ 
