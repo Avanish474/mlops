@@ -99,8 +99,7 @@ Setup the softwares listed above in you pc or laptop
   
   ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0031%5B1%5D.jpg)
   
-  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0034%5B1%5D.jpg)
-  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0038%5B1%5D.jpg)
+ 
   
   
   #JOB4: called accuracy
@@ -110,6 +109,8 @@ Setup the softwares listed above in you pc or laptop
   
   #JOB5: called notification
   
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0034%5B1%5D.jpg)
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0038%5B1%5D.jpg)
   ![Image description](https://github.com/Avanish474/mlops/blob/93f527b538aea168849ce0dcba94b8509212cb67/mld.jpg)
   ![Image description](https://github.com/Avanish474/mlops/blob/93f527b538aea168849ce0dcba94b8509212cb67/mld.jpg)
   
