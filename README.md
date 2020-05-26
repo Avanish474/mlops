@@ -104,7 +104,7 @@ Setup the softwares listed above in you pc or laptop
   
   #JOB4: called accuracy
   
-  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0040%5B1%5D.jpg)
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/WhatsApp%20Image%202020-05-26%20at%206.12.48%20PM.jpeg)
 
   
   #JOB5: called notification
