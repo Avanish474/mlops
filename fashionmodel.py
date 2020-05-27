@@ -13,9 +13,6 @@ while((float(open('/tf/tensorflow-tutorials/accuracy.txt','rt').read(5))*100)<=8
     os.system('python3 /tf/tensorflow-tutorials/classifications.py')
 
 # In[ ]:
-
-
-    new=2**n
     
 exit()
 
