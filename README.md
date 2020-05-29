@@ -126,8 +126,8 @@
   # JOB3: called trainandpredict
   
   
-  ![Image description]()
-  ![Image description]()
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/classif.jpg)
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/train%202.jpg)
   
   
  
@@ -136,9 +136,9 @@
   # JOB4: called accuracy
   
   
-  ![Image description]()
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/accuracy.jpeg)
   
-  ![Image description]()
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/accuracy%202.jpg)
 
   
   # JOB5: called notification
@@ -147,7 +147,7 @@
   ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0034%5B1%5D.jpg)
   
   
-  ![Image description]()
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/notif%202.jpg)
  
  
  
