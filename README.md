@@ -103,6 +103,8 @@
    
    
    echo "jenkins        ALL=(ALL)       NOPASSWD: ALL" >> etc/sudoers
+   
+   This job will will automatically download the code from github automatically as soon as the developer pushes to Github.
   
   
   ![Image description](https://github.com/Avanish474/mlops/blob/master/1%5B1%5D.jpg)
@@ -116,6 +118,8 @@
  
   # JOB2: called start
   
+  This job will automatically launch the container if it has not been launced by the developer ,as soon as the job 1 is finished.
+  
   
   ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0025%5B1%5D.jpg)
   
@@ -124,6 +128,8 @@
  
  
   # JOB3: called trainandpredict
+  
+  This job will run the machine learning code as soon as the job2 is finished i.e. classifications.py and trigger job 4.
   
   
   ![Image description](https://github.com/Avanish474/mlops/blob/master/classif.jpg)
@@ -135,6 +141,7 @@
   
   # JOB4: called accuracy
   
+  This job wiil run the fashionmodel.py code which will check the accuracy of the classifications.py code and ammend the code if the accuracy is less than 88%. It will then trigger job 5.
   
   ![Image description](https://github.com/Avanish474/mlops/blob/master/accuracy.jpeg)
   
@@ -142,6 +149,8 @@
 
   
   # JOB5: called notification
+  
+  This job will send a mail through the python script mail.py regarding the information about the model creation and triggers job 6. 
   
   
   ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0034%5B1%5D.jpg)
@@ -153,6 +162,8 @@
  
   # JOB6: called job6
   
+  This job monitors whether the container is running or not .
+  
   
   ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0040%5B1%5D.jpg)
   
@@ -161,6 +172,6 @@
   
 
   
-# Well ,you have achieved what you wanted and now you can write your own python scripts or work with some jenkins plugins to make your project more effective.
+# Well ,you have achieved what you wanted and now you can write your own python scripts or work with some jenkins plugins to make your project more effective. As you have now seen that I used fashionmodel.py to monitor the accuracy of my machine learning model,you can now create your own model and tweak it with a different python script using file handling as I used in here.You can use build pipeline in jenkins to view your job execution . Go ahead and make your own model and ammend it if the code falls short of accuracy and use jenkins to automate the process . 
    
  
