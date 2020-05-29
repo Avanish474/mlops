@@ -157,7 +157,7 @@
   ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0040%5B1%5D.jpg)
   
   
-  ![Image description]()
+  ![Image description](https://github.com/Avanish474/mlops/blob/master/job6%202.jpg)
   
 
   
