@@ -126,7 +126,9 @@
   # JOB3: called trainandpredict
   
   
-  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0031%5B1%5D.jpg)
+  ![Image description]()
+  ![Image description]()
+  
   
  
   
@@ -134,7 +136,9 @@
   # JOB4: called accuracy
   
   
-  ![Image description](https://github.com/Avanish474/mlops/blob/master/WhatsApp%20Image%202020-05-26%20at%206.12.48%20PM.jpeg)
+  ![Image description]()
+  
+  ![Image description]()
 
   
   # JOB5: called notification
@@ -143,7 +147,7 @@
   ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0034%5B1%5D.jpg)
   
   
-  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0038%5B1%5D.jpg)
+  ![Image description]()
  
  
  
@@ -153,7 +157,7 @@
   ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0040%5B1%5D.jpg)
   
   
-  ![Image description](https://github.com/Avanish474/mlops/blob/master/IMG-20200526-WA0042%5B1%5D.jpg)
+  ![Image description]()
   
 
   
