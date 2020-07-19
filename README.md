@@ -62,7 +62,7 @@
    and then type 
   
   
-   docker build -t riseweb:v1
+   docker build -t riseweb:v1 /project/
   
   
    where riseweb:v1 is your image name
